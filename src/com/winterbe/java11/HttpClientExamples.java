@@ -79,4 +79,7 @@ public class HttpClientExamples {
         // do nothing for now...
     }
     
+    private static void process()	{
+    	// do nothing
+    }
 }
