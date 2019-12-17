@@ -75,4 +75,8 @@ public class HttpClientExamples {
         System.out.println(response2.statusCode());      // 200
     }
 
+    private void sync() {
+        // do nothing for now...
+    }
+    
 }
